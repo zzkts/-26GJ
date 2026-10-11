@@ -1,0 +1,25 @@
+ID,用途,源文件,处理后产物,运行时资源,本轮状态
+A01,序幕远景背景,Assets/Art/Source_Keep/A01.jpg,Processed/Prologue/PR01_BG_Archive.png,（未接入：标题场景自带木船，叠图会双船）,已处理未接入
+A02,序幕木船近景背景,Assets/Art/Source_Keep/A02.jpg,Processed/Prologue/PR02_BG_Boat.png,（同上）,已处理未接入
+A03,第一章远景(天海/远山/灯塔),Assets/Art/Source_Keep/A03.jpg,Processed/Chapter01_Family/CH01_BG_Far.png,（未接入：缺 A04/A05 的地面层，单独铺会让人物站在水上）,已处理未接入
+A04,第一章中景(修船铺/树/栏杆),Assets/Art/Source_Keep/A04.jpg,（无）,（无）,未处理-需抠图分层
+A05,第一章前景码头地面,Assets/Art/Source_Keep/A05.jpg,（无）,（无）,未处理-需抠图分层
+A06,母亲角色,Assets/Art/Source_Keep/A06.jpg,Processed/Chapter01_Family/CH01_Mother.png,Resources/Art/CH01_Mother.png,已接入
+A07,少年角色,Assets/Art/Source_Keep/A07.jpg,Processed/Chapter01_Family/CH01_Boy.png,Resources/Art/CH01_Boy.png,已接入(包围盒待收紧)
+A08,共享木船母版,Assets/Art/Source_Keep/A08.jpg,Processed/Shared/Boat_Master.png,Resources/Art/Boat_Master.png,已接入(三章共用)
+A09,罗盘关键道具,Assets/Art/Source_Keep/A09.jpg,Processed/Shared/Compass.png,Resources/Art/Compass.png,已接入
+A10,第一章滑块候选,Assets/Art/Source_Keep/A10.jpg,（无）,（无）,不采用-游戏内滑块已是把手+轨道分离结构
+A11,第二章清晨港口背景,Assets/Art/Source_Keep/A11.jpg,Processed/Chapter02_Friendship/CH02_BG_Clean.png,Resources/Art/CH02_BG_Clean.png,已接入(已清HUD与相框)
+A12,青年等待角色,Assets/Art/Source_Keep/A12.jpg,Processed/Chapter02_Friendship/CH02_YoungMan.png,Resources/Art/CH02_YoungMan.png,已接入(船座处有半透明残留)
+A13,朋友角色,Assets/Art/Source_Keep/A13.jpg,Processed/Chapter02_Friendship/CH02_Friend.png,Resources/Art/CH02_Friend.png,已接入
+A14,第二章铅笔风木船,Assets/Art/Source_Keep/A14.jpg,（无）,（无）,仅作参考-统一用A08母版
+A15,旧海图关键道具,Assets/Art/Source_Keep/A15.jpg,Processed/Chapter02_Friendship/CH02_SeaChart.png,Resources/Art/CH02_SeaChart.png,已接入
+A16,第二章时间滑环候选,Assets/Art/Source_Keep/A16.jpg,（无）,（无）,不采用-同上
+A17,第三章夜港背景,Assets/Art/Source_Keep/A17.jpg,（无）,（无）,仅作参考-海报排版含大标题与搜索栏，需重生成
+A18,中年男人修船角色,Assets/Art/Source_Keep/A18.jpg,Processed/Chapter03_Love/CH03_Man.png,（未接入：抠图在白色线稿缝上啃出缺口）,待重抠
+A19,女孩角色,Assets/Art/Source_Keep/A19.jpg,（无）,（无）,需重生成-剪影海报不能承担角色动作
+A20,第三章木船图,Assets/Art/Source_Keep/A20.jpg,（无）,（无）,不采用-组合图含搜索栏
+A21,红线纸船关键道具,Assets/Art/Source_Keep/A21.jpg,Processed/Chapter03_Love/CH03_PaperBoat.png,Resources/Art/CH03_PaperBoat.png,已接入
+A22,第三章黄铜滑块候选,Assets/Art/Source_Keep/A22.jpg,（无）,（无）,不采用-嵌在装饰蓝底板里
+A23,结尾记忆归还近景,Assets/Art/Source_Keep/A23.jpg,Processed/Ending/END_Restored.png,（未接入：背景已含木船，与结局自绘船会双船）,已处理未接入
+A24,结尾拉远全景,Assets/Art/Source_Keep/A24.jpg,Processed/Ending/END_Wide.png,（同上）,已处理未接入
